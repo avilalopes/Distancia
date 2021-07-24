@@ -1,0 +1,16 @@
+D:\git\Distancia\bin\Debug\net5.0\Distancia.exe
+D:\git\Distancia\bin\Debug\net5.0\Distancia.deps.json
+D:\git\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.json
+D:\git\Distancia\bin\Debug\net5.0\Distancia.runtimeconfig.dev.json
+D:\git\Distancia\bin\Debug\net5.0\Distancia.dll
+D:\git\Distancia\bin\Debug\net5.0\ref\Distancia.dll
+D:\git\Distancia\bin\Debug\net5.0\Distancia.pdb
+D:\git\Distancia\obj\Debug\net5.0\Distancia.csprojAssemblyReference.cache
+D:\git\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+D:\git\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+D:\git\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache
+D:\git\Distancia\obj\Debug\net5.0\Distancia.dll
+D:\git\Distancia\obj\Debug\net5.0\ref\Distancia.dll
+D:\git\Distancia\obj\Debug\net5.0\Distancia.pdb
+D:\git\Distancia\obj\Debug\net5.0\Distancia.genruntimeconfig.cache
